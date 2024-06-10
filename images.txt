@@ -10,6 +10,17 @@ kasmweb/nginx:1.25.3
 --platform=linux/arm64 wcjiang/linux-command:latest
 --platform=linux/amd64 halohub/halo:2.16.2
 --platform=linux/arm64 halohub/halo:2.16.2
---platform=linux/appc64le halohub/halo:2.16.2
---platform=linux/s390x halohub/halo:2.16.2
-
+--platform=linux/amd64 frooodle/s-pdf:alpha
+--platform=linux/arm64 frooodle/s-pdf:alpha
+--platform=linux/amd64 neosmemo/memos:latest
+--platform=linux/arm64 neosmemo/memos:latest
+--platform=linux/amd64 wbsu2003/regex-vis:latest
+--platform=linux/amd64 corentinth/it-tools:nightly
+--platform=linux/arm64 corentinth/it-tools:nightly
+--platform=linux/amd64 postgres:alpine3.20
+--platform=linux/arm/v6 postgres:alpine3.20
+excalidraw/excalidraw:latest
+gerain/learngitbranching:1.0.0
+--platform=linux/arm64 portainer/portainer:latest
+--platform=linux/amd64 portainer/portainer:latest
+--platform=linux/arm/v7 portainer/portainer:latest
