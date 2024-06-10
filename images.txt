@@ -4,5 +4,12 @@ kasmweb/nginx:1.25.3
 --platform=linux/amd64 redis:7.0.15-alpine3.20
 --platform=linux/arm/v7 redis:7.0.15-alpine3.20
 --platform=linux/amd64 enmanuelmoreira/jsoncrack:latest
-
+--platform=linux/amd64 wcjiang/reference:latest
+--platform=linux/arm64 wcjiang/reference:latest
+--platform=linux/amd64 wcjiang/linux-command:latest
+--platform=linux/arm64 wcjiang/linux-command:latest
+--platform=linux/amd64 halohub/halo:2.16.2
+--platform=linux/arm64 halohub/halo:2.16.2
+--platform=linux/appc64le halohub/halo:2.16.2
+--platform=linux/s390x halohub/halo:2.16.2
 
