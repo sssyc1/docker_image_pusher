@@ -6,3 +6,4 @@
 #--platform=linux/arm64 xiaoyaliu/alist
 --platform=linux/amd64 savatar101/marker-api:0.2
 --platform=linux/amd64 apachecn0/opencv-doc-zh:latest
+ghcr.io/anduin2017/how-to-cook:latest
