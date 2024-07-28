@@ -10,3 +10,4 @@
 --platform=linux/arm64 redis:7.2.5
 --platform=linux/amd64 redis:7.2.5
 node:18-alpine
+xfgryujk/blivechat:latest
