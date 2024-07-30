@@ -7,8 +7,9 @@
 #--platform=linux/amd64 savatar101/marker-api:0.2
 #--platform=linux/amd64 apachecn0/opencv-doc-zh:latest
 #ghcr.io/anduin2017/how-to-cook:latest
---platform=linux/arm64 redis:7.2.5
---platform=linux/amd64 redis:7.2.5
-node:18-alpine
-xfgryujk/blivechat:latest
-ruby:3.3.4
+#--platform=linux/arm64 redis:7.2.5
+#--platform=linux/amd64 redis:7.2.5
+#node:18-alpine
+#xfgryujk/blivechat:latest
+#ruby:3.3.4
+define42/devdocs:latest
