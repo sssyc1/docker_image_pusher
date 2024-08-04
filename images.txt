@@ -12,4 +12,6 @@
 #node:18-alpine
 #xfgryujk/blivechat:latest
 #ruby:3.3.4
-define42/devdocs:latest
+#define42/devdocs:latest
+mongodb/mongodb-enterprise-server:latest
+
