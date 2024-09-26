@@ -16,3 +16,4 @@
 #mongodb/mongodb-enterprise-server:latest
 cooderl/wewe-rss:latest
 ghcr.io/open-webui/open-webui:cuda
+ouqg/gocron:latest
