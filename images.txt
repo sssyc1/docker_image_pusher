@@ -17,4 +17,5 @@
 #cooderl/wewe-rss:latest
 #ghcr.io/open-webui/open-webui:cuda
 #ouqg/gocron:latest
-louislam/uptime-kuma:1
+#louislam/uptime-kuma:1
+openresty/openresty:1.25.3.2-0-alpine-fat
