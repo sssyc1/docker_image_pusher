@@ -18,4 +18,5 @@
 #ghcr.io/open-webui/open-webui:cuda
 #ouqg/gocron:latest
 #louislam/uptime-kuma:1
-openresty/openresty:1.25.3.2-0-alpine-fat
+#openresty/openresty:1.25.3.2-0-alpine-fat
+ghcr.io/heyputer/puter
