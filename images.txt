@@ -20,7 +20,7 @@
 #louislam/uptime-kuma:1
 #openresty/openresty:1.25.3.2-0-alpine-fat
 #ghcr.io/heyputer/puter
-whyour/qinglong:latest
-
+#whyour/qinglong:latest
+ghcr.io/ourongxing/newsnow:latest
 
 
