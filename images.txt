@@ -1,27 +1,27 @@
 #nginx
 #支持私库
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
-#xhofe/alist:latest
+xhofe/alist:latest
 #支持指定架构
-#--platform=linux/arm64 xiaoyaliu/alist
+--platform=linux/arm64 xiaoyaliu/alist
 #--platform=linux/amd64 savatar101/marker-api:0.2
-#--platform=linux/amd64 apachecn0/opencv-doc-zh:latest
-#ghcr.io/anduin2017/how-to-cook:latest
+--platform=linux/amd64 apachecn0/opencv-doc-zh:latest
+ghcr.io/anduin2017/how-to-cook:latest
 #--platform=linux/arm64 redis:7.2.5
 #--platform=linux/amd64 redis:7.2.5
 #node:18-alpine
-#xfgryujk/blivechat:latest
+xfgryujk/blivechat:latest
 #ruby:3.3.4
-#define42/devdocs:latest
-#mongodb/mongodb-enterprise-server:latest
-#cooderl/wewe-rss:latest
-#ghcr.io/open-webui/open-webui:cuda
-#ouqg/gocron:latest
+define42/devdocs:latest
+mongodb/mongodb-enterprise-server:latest
+cooderl/wewe-rss:latest
+ghcr.io/open-webui/open-webui:cuda
+ouqg/gocron:latest
 #louislam/uptime-kuma:1
 #openresty/openresty:1.25.3.2-0-alpine-fat
-#ghcr.io/heyputer/puter
-#whyour/qinglong:latest
-#ghcr.io/ourongxing/newsnow:latest
-#lukasblecher/pix2tex:api
-#yfl168648/cnn-explainer:latest
+ghcr.io/heyputer/puter
+whyour/qinglong:latest
+ghcr.io/ourongxing/newsnow:latest
+lukasblecher/pix2tex:api
+yfl168648/cnn-explainer:latest
 node:20.12.2-alpine
