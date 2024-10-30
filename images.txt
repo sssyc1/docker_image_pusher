@@ -27,3 +27,4 @@ lukasblecher/pix2tex:api
 yfl168648/cnn-explainer:latest
 node:20.12.2-alpine
 node:latest
+thijsvanloef/palworld-server-docker:latest
