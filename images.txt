@@ -13,6 +13,7 @@ ghcr.io/anduin2017/how-to-cook:latest
 xfgryujk/blivechat:latest
 #ruby:3.3.4
 define42/devdocs:latest
+programzmh/chatnio:latest
 mongodb/mongodb-enterprise-server:latest
 cooderl/wewe-rss:latest
 ghcr.io/open-webui/open-webui:cuda
