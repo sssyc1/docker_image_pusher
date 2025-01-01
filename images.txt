@@ -31,3 +31,4 @@ node:latest
 thijsvanloef/palworld-server-docker:latest
 minio/minio:latest
 dgtlmoon/changedetection.io:latest
+stirlingtools/stirling-pdf:latest
