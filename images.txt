@@ -34,5 +34,5 @@ dgtlmoon/changedetection.io:latest
 stirlingtools/stirling-pdf:latest
 henrygd/beszel:latest
 henrygd/beszel-agent:latest
-ghcr.io/home-assistant/home-assistant:stable
-home-assistant/home-assistant:latest
+#ghcr.io/home-assistant/home-assistant:stable
+#home-assistant/home-assistant:latest
