@@ -19,14 +19,14 @@ cooderl/wewe-rss:latest
 ghcr.io/open-webui/open-webui:cuda
 ouqg/gocron:latest
 louislam/uptime-kuma:beta
-louislam/uptime-kuma:latest
+louislam/uptime-kuma:latestchigusa/bililive-go
 #openresty/openresty:1.25.3.2-0-alpine-fat
 ghcr.io/heyputer/puter
 whyour/qinglong:latest
 ghcr.io/ourongxing/newsnow:latest
 lukasblecher/pix2tex:api
 yfl168648/cnn-explainer:latest
-node:20.12.2-alpine
+#node:20.12.2-alpine
 node:latest
 thijsvanloef/palworld-server-docker:latest
 minio/minio:latest
@@ -34,5 +34,6 @@ dgtlmoon/changedetection.io:latest
 stirlingtools/stirling-pdf:latest
 henrygd/beszel:latest
 henrygd/beszel-agent:latest
-#ghcr.io/home-assistant/home-assistant:stable
-#home-assistant/home-assistant:latest
+chigusa/bililive-go:latest
+quay.io/prometheus/prometheus:latest
+grafana/grafana-oss:latest
