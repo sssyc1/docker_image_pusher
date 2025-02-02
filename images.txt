@@ -36,3 +36,4 @@ henrygd/beszel-agent:latest
 chigusa/bililive-go:latest
 quay.io/prometheus/prometheus:latest
 grafana/grafana-oss:latest
+soulter/astrbot:latest
