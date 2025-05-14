@@ -17,8 +17,6 @@ b3log/siyuan
 define42/devdocs:latest
 programzmh/chatnio:latest
 mongodb/mongodb-enterprise-server:latest
-cooderl/wewe-rss:latest
-ghcr.io/open-webui/open-webui:cuda
 ouqg/gocron:latest
 louislam/uptime-kuma:latest
 #openresty/openresty:1.25.3.2-0-alpine-fat
