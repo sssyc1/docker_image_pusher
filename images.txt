@@ -11,6 +11,7 @@ ghcr.io/anduin2017/how-to-cook:latest
 #--platform=linux/arm64 redis:7.2.5
 #--platform=linux/amd64 redis:7.2.5
 #node:18-alpine
+justsong/one-api
 xfgryujk/blivechat:latest
 b3log/siyuan
 #ruby:3.3.4
