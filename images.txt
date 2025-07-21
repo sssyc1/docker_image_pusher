@@ -17,6 +17,7 @@ fruitbars/simple-one-api
 justsong/one-api
 xfgryujk/blivechat:latest
 b3log/siyuan
+neosmemo/memos:stable
 #ruby:3.3.4
 define42/devdocs:latest
 programzmh/chatnio:latest
