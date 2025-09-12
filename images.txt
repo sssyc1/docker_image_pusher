@@ -4,6 +4,7 @@
 #node:20-alpine
 #支持指定架构
 #--platform=linux/amd64 savatar101/marker-api:0.2
+docker.io/searxng/searxng:latest
 --platform=linux/amd64 apachecn0/opencv-doc-zh:latest
 ghcr.io/anduin2017/how-to-cook:latest
 #--platform=linux/arm64 redis:7.2.5
