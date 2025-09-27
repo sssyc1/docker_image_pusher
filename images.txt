@@ -4,41 +4,42 @@
 #node:20-alpine
 #支持指定架构
 #--platform=linux/amd64 savatar101/marker-api:0.2
-docker.io/searxng/searxng:latest
---platform=linux/amd64 apachecn0/opencv-doc-zh:latest
-ghcr.io/anduin2017/how-to-cook:latest
+#docker.io/searxng/searxng:latest
+#--platform=linux/amd64 apachecn0/opencv-doc-zh:latest
+#ghcr.io/anduin2017/how-to-cook:latest
 #--platform=linux/arm64 redis:7.2.5
 #--platform=linux/amd64 redis:7.2.5
+ghcr.io/sillytavern/sillytavern:latest
 #node:18-alpine
-ghcr.io/immich-app/immich-server:v1.71.0
-ghcr.io/immich-app/immich-machine-learning:v1.71.0
-docker.io/valkey/valkey:8-bookworm@sha256:ff21bc0f8194dc9c105b769aeabf9585fea6a8ed649c0781caeac5cb3c247884
-ghcr.io/immich-app/postgres:14-vectorchord0.3.0-pgvectors0.2.0@sha256:fa4f6e0971f454cd95fec5a9aaed2ed93d8f46725cc6bc61e0698e97dba96da1
-fruitbars/simple-one-api
-justsong/one-api
+#ghcr.io/immich-app/immich-server:v1.71.0
+#ghcr.io/immich-app/immich-machine-learning:v1.71.0
+#docker.io/valkey/valkey:8-bookworm@sha256:ff21bc0f8194dc9c105b769aeabf9585fea6a8ed649c0781caeac5cb3c247884
+#ghcr.io/immich-app/postgres:14-vectorchord0.3.0-pgvectors0.2.0@sha256:fa4f6e0971f454cd95fec5a9aaed2ed93d8f46725cc6bc61e0698e97dba96da1
+#fruitbars/simple-one-api
+#justsong/one-api
 #blinkospace/blinko:latest
-postgres:14
-xfgryujk/blivechat:latest
+#postgres:14
+#xfgryujk/blivechat:latest
 b3log/siyuan
 neosmemo/memos:stable
 #ruby:3.3.4
-define42/devdocs:latest
-programzmh/chatnio:latest
-byaidu/pdf2zh
+#define42/devdocs:latest
+#programzmh/chatnio:latest
+#byaidu/pdf2zh
 mongodb/mongodb-enterprise-server:latest
 ouqg/gocron:latest
-louislam/uptime-kuma:latest
+#louislam/uptime-kuma:latest
 #openresty/openresty:1.25.3.2-0-alpine-fat
 ghcr.io/heyputer/puter
 whyour/qinglong:latest
 ghcr.io/ourongxing/newsnow:latest
-lukasblecher/pix2tex:api
-yfl168648/cnn-explainer:latest
+#lukasblecher/pix2tex:api
+#yfl168648/cnn-explainer:latest
 #node:20.12.2-alpine
 node:latest
 thijsvanloef/palworld-server-docker:latest
 minio/minio:latest
-dgtlmoon/changedetection.io:latest
+#dgtlmoon/changedetection.io:latest
 stirlingtools/stirling-pdf:latest
 henrygd/beszel:latest
 henrygd/beszel-agent:latest
@@ -71,5 +72,5 @@ opensearchproject/opensearch-dashboards:latest
 #docker.elastic.co/elasticsearch/elasticsearch:8.14.3
 #docker.elastic.co/kibana/kibana:8.14.3
 #downloads.unstructured.io/unstructured-io/unstructured-api:latest
-wushuo894/ani-rss:latest
+#wushuo894/ani-rss:latest
 linuxserver/qbittorrent:latest
