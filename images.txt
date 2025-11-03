@@ -7,13 +7,9 @@
 #--platform=linux/amd64 apachecn0/opencv-doc-zh:latest
 #--platform=linux/arm64 redis:7.2.5
 #--platform=linux/amd64 redis:7.2.5
-ghcr.io/sillytavern/sillytavern:latest
-freshrss/freshrss
 neosmemo/memos:stable
-whyour/qinglong:latest
 ghcr.io/ourongxing/newsnow:latest
 thijsvanloef/palworld-server-docker:latest
 stirlingtools/stirling-pdf:latest
 innei/mx-server:latest
-mongo
-redis:alpine
+mongo:4.4
