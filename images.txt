@@ -13,5 +13,7 @@ neosmemo/memos:stable
 whyour/qinglong:latest
 ghcr.io/ourongxing/newsnow:latest
 thijsvanloef/palworld-server-docker:latest
-minio/minio:latest
 stirlingtools/stirling-pdf:latest
+innei/mx-server:latest
+mongo
+redis:alpine
