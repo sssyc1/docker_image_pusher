@@ -7,8 +7,10 @@
 #--platform=linux/amd64 apachecn0/opencv-doc-zh:latest
 #--platform=linux/arm64 redis:7.2.5
 #--platform=linux/amd64 redis:7.2.5
+calciumion/new-api:latest
+redis:latest
+postgres:15
 truemanlive/puppy-stardew-server:latest
-neosmemo/memos:stable
 ghcr.io/ourongxing/newsnow:latest
 thijsvanloef/palworld-server-docker:latest
 stirlingtools/stirling-pdf:latest
